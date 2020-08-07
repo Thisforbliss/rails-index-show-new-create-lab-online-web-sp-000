@@ -1,3 +1,1 @@
-class Coupon < ApplicationRecord
-  
-end
+
