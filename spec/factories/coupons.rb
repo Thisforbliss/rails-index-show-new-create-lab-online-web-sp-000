@@ -1,5 +1,5 @@
-FactoryBot.define do
-  factory :coupon do
+# FactoryBot.define do
+#   factory :coupon do
     
-  end
-end
+#   end
+# end
